@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EAEI,QAAQ,CACR,SAAU,CACV,qBACJ,CAEA,KAEI,qBACJ","file":"main.ad9d2a8f.chunk.css","sourcesContent":["*\r\n{\r\n    margin:0;\r\n    padding: 0;\r\n    box-sizing: border-box;\r\n}\r\n\r\nbody\r\n{\r\n    background-color: #333344;\r\n}"]}
